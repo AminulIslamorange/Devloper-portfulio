@@ -29,3 +29,20 @@ section{
    background-repeat: no-repeat;
 
 }
+section{
+    display:flex;
+    margin-bottom: 100px;
+}
+.dream img{
+    width:80%;
+
+}
+.dream{width:50%;
+}
+
+
+.My-dream{
+    background-image:url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position:right;
+}
